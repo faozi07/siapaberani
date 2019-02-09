@@ -1,0 +1,104 @@
+<resources>
+    <string name="app_name">Siapa Berani</string>
+    <string name="app_tagline">Setelah Kamu memilikinya, Kamu akan menyukainya!</string>
+
+    <string name="index_1">1</string>
+    <string name="index_2">2</string>
+    <string name="index_3">3</string>
+    <string name="index_4">4</string>
+    <string name="index_5">5</string>
+
+    <string name="score">Skor: %1$d</string>
+    <string name="your_score">Skor Kamu: %1$d</string>
+    <string name="best_score">Skor Terbaik: %1$d</string>
+
+    <string name="skip_question">Lewati Pertanyaan</string>
+    <string name="fifty_fifty">50/50</string>
+    <string name="fifty_fifty_text">Lima puluh/Lima puluh</string>
+    <string name="restart_game">Restart Game</string>
+    <string name="rate_us">Nilai kami</string>
+    <string name="home">Beranda</string>
+    <string name="about">Tentang</string>
+    <string name="scores">Skor</string>
+    <string name="categories">Kategori</string>
+    <string name="how_to">Bagaimana caranya</string>
+    <string name="lets_start">Ayo Mulai</string>
+    <string name="close">Tutup</string>
+    <string name="confirmation">Konfirmasi</string>
+    <string name="pick_a_category">Pilih Kategori</string>
+    <string name="no_question">Pertanyaan Tidak Ditemukan</string>
+    <string name="fifty_fifty_unavailable">50/50 opsi tidak tersedia untuk Pertanyaan itu</string>
+    <string name="explanation">Penjelasan</string>
+
+    <string name="intro_slide1_text">Kategori akan cocok untuk Anda seperti yang Anda inginkan</string>
+    <string name="intro_slide2_text">Ketika mengalami kesulitan, Kesulitan mendapatkan 50–50</string>
+    <string name="intro_slide3_text">Satu Lompatan lebih baik daripada dua yang lainnya</string>
+    <string name="settings">Pengaturan</string>
+    <string name="share">Bagikan</string>
+    <string name="sound">Suara</string>
+    <string name="vibration">Getar</string>
+    <string name="game_data">Data Game</string>
+    <string name="push_notification">Notifikasi</string>
+    <string name="reset_all_data">Setel ulang semua Data Game</string>
+    <string name="reset">Atur ulang</string>
+    <string name="sound_and_notification">Suara dan Notifikasi</string>
+    <string name="internet_error">Tidak dapat mengambil data dari Server</string>
+    <string name="share_score">Bagikan Skor</string>
+    <string name="share_on_facebook">Bagikan ke FB</string>
+    <string name="share_on_other">Bagikan ke lainnya</string>
+    <string name="share_heading">Bagikan Aplikasi</string>
+    <string name="share_text">Download %1$s dari- https://play.google.com/store/apps/details?id=%2$s</string>
+
+    <string name="fifty_fifty_limit">Batas Maksimum 50/50 Telah Habis</string>
+    <string name="skip_limit">Batas Maksimum dari Lewati Pertanyaan telah habis</string>
+    <string name="delete_confirmation">Kamu yakin ingin menghapus semua data?</string>
+    <string name="about_text">Siapa Berani, Aplikasi Kuis Android yang dibuat oleh Faozi dengan &lt;3</string>
+
+    <string name="no">Tidak</string>
+    <string name="yes">Ya</string>
+    <string name="data_deleted">Data Telah Dihapus</string>
+
+    <string name="restart">Muat Ulang</string>
+    <string name="lifes">Hidup: </string>
+    <string name="choose_category">Mulai Game dengan memilih Kategori</string>
+    <string name="tutorial">Tutorial</string>
+    <string name="learn_play">Pelajari cara Bermain</string>
+    <string name="buy">Beli</string>
+    <string name="buy_premium_version">Beli atau Verifikasi Pembelian</string>
+    <string name="extra_life">Hidup Ekstra</string>
+    <string name="watch_video">Tonton Video untuk mendapatkan Kehidupan ekstra</string>
+    <string name="game">Game</string>
+    <string name="user_exist">Akun sudah ada dengan alamat email yang sama tetapi kredensial masuk yang berbeda. Masuk menggunakan penyedia yang terkait dengan alamat email ini.</string>
+    <string name="press_back">Tekan kembali lagi untuk keluar</string>
+    <string name="correct">Betul</string>
+    <string name="incorrect">Salah</string>
+    <string name="skipped">Terlewati</string>
+    <string name="result">Hasil</string>
+    <string name="user_panel">Panel Pengguna</string>
+    <string name="continue_with_google">Lanjut dengan Google</string>
+    <string name="continue_with_facebook">Lanjut dengan Facebook</string>
+    <string name="login_text">Login untuk mendapatkan pengalaman terbaik dari yang terbaik!</string>
+    <string name="logout">Logout</string>
+    <string name="john_doe">Faozi</string>
+    <string name="auth_failed">Otentikasi gagal</string>
+    <string name="login_successful">Login Sukses</string>
+    <string name="logout_successful">Logout Sukses</string>
+    <string name="leaderboard">Papan peringkat</string>
+    <string name="internet_notice">Diperlukan Koneksi Internet untuk menjalankan aplikasi. Silakan aktifkan Koneksi Internet &amp; restart Aplikasi.</string>
+    <string name="life_added">Hidup Ekstra ditambahkan sebagai Hadiah!</string>
+    <string name="purchase_successful">Pembelian Berhasil! Kamu sekarang dapat menikmati Kategori Premium &amp; Iklan Konten Gratis.</string>
+
+    <string name="lorem_ipsum_long">Berlawanan dengan kepercayaan populer, Lorem Ipsum bukan hanya teks acak. Ini berakar pada sepotong sastra Latin klasik dari 45 SM, membuatnya lebih dari 2000 tahun.</string>
+
+    <string name="ads_app_id">ca-app-pub-9423973623143388~8962567670</string>
+    <string name="ads_banner_id">ca-app-pub-9423973623143388/8749856824</string>
+    <string name="ads_interstitial_id">ca-app-pub-9423973623143388/8682655630</string>
+    <string name="ads_reward_id">ca-app-pub-9423973623143388/3785552171</string>
+
+    <string name="facebook_app_id">783918228445031</string>
+    <string name="fb_login_protocol_scheme">fb563234030712222</string>
+
+    <string name="google_play_key">MIIBIjANBgkqhkiG9w0BAQEFBBBBBBBBBBBBBBBBBBBBAQ8AMIIBCgKCAQEAzdLwkeAkt8tlTqZdgXW9urLOtdCSRW3u1/P3Dwg+LCgPuMsASIJ+d2bdgmKIEJA1UQ+vONyJ5YCsf2krIJwGeY67eZfPNc5s6F3NF/nWgxjFZK6hTkK5AcuiYZGVs+pkzvqU+/zAMICdWlEkse2yREn92sSS6nggpey6zdzOJBmuQFkHWdrY7NnILuRq/wRZPU8PaZ2H0LJcb0iv3YZdLzSeX1FFFFFFFFFFFFFFFFkyCg2PkpuzGGOEefVXD8gtwWgDsXQgsr50GrNVFyIEZfi2pvpAvXI/ROIreJ5ooUR/GWgprIYh546MW1YiwxgQR6c3GskHLk4LEfbQYRL1iOFwIDAQAB</string>
+    <string name="play_iap_id">android.test.purchased</string>
+
+</resources>

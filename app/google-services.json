@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "790284634214",
+    "firebase_url": "https://siapa-berani.firebaseio.com",
+    "project_id": "siapa-berani",
+    "storage_bucket": "siapa-berani.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790284634214:android:26d7baed3899cc1d",
+        "android_client_info": {
+          "package_name": "com.siapaberani.kuis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790284634214-dp6a1lea6h6la1aadn77vkklf7efegvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSW0f_HtGSiT39CscbqBYVH44O97GLsOQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790284634214:android:466aaf4f8ab967c9",
+        "android_client_info": {
+          "package_name": "me.arifix.quizix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790284634214-dp6a1lea6h6la1aadn77vkklf7efegvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSW0f_HtGSiT39CscbqBYVH44O97GLsOQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
